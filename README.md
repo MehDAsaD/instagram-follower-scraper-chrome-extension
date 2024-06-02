@@ -14,7 +14,7 @@ This Chrome extension allows you to extract followers from any Instagram page. T
 
 
 ## Installation
-1. Download the extension from [GitHub](link to your repository).
+1. Download the extension from [MehDAsaD](instagram-follower-scraper-vuser1.0.0).
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable "Developer mode".
 4. Click "Load unpacked" and select the extension folder.
