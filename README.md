@@ -21,17 +21,19 @@ This Chrome extension allows you to extract followers from any Instagram page. T
 
 
 ## Screenshots
-1. Click on the extension icon to view the extension's user interface.
+1. Click on the Instagram Follower Extractor extension icon to view the user interface in a pop-up. Click the "Click to Start Scraping" button to begin extraction.
 
    ![Screenshot 1](screenshot/extension-1.png)
 
-2. Click the "Click to Start Scraping" button.
+2. You will see that the followers are being extracted.
 
    ![Screenshot 2](screenshot/extension–2.png)
 
-3. You will see that the followers are being extracted.
+3. The follower information is automatically saved in the Downloads folder on your system.
 
    ![Screenshot 3](screenshot/extension–3.png)
+
+
 
 
 
