@@ -6,14 +6,14 @@
 This Chrome extension scrapes followers from a target Instagram page. Simply open the followers list, click the scrape button, and the extension will gather usernames and profile links, saving them in a `.txt` file in your download folder.
 
 
-## Features
+### Features
 *   **Scrapes Instagram follower usernames and profile links**
 *   **Saves data in a `.txt` file**
 *   **Easy one-click scraping process**
 *   **Provides progress notifications**
 
 
-## How to Use
+### How to Use
 1. Install the extension in Chrome.
 2. Go to the Instagram page you want to scrape.
 3. Open the followers list.
@@ -29,14 +29,14 @@ This Chrome extension scrapes followers from a target Instagram page. Simply ope
 4. Click "Load unpacked" and select the extension folder.
 
 
-## Technical Details
+### Technical Details
 - Utilizes JavaScript for web scraping.
 - Provides real-time notifications.
 - Automatically scrolls to load all followers.
 - Saves data as a text file.
   
 
-## Screenshots
+### Screenshots
 1. Click on the Instagram Follower Extractor extension icon to view the user interface in a pop-up. Click the "Click to Start Scraping" button to begin extraction.
 
    ![Screenshot 1](screenshot/extension-1.png)
@@ -48,7 +48,6 @@ This Chrome extension scrapes followers from a target Instagram page. Simply ope
 3. The follower information is automatically saved in the Downloads folder on your system.
 
    ![Screenshot 3](screenshot/extension–3.png)
-
 
 
 #InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramFollowerScraperChromeExtension #InstagramFollowerScraperExtension #FollowerScraper
