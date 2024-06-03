@@ -7,7 +7,7 @@ This Chrome extension scrapes followers from a target Instagram page. Simply ope
 
 
 ## Features
-*   **Extracts Instagram follower usernames and profile links**
+*   **Scrapes Instagram follower usernames and profile links**
 *   **Saves data in a `.txt` file**
 *   **Easy one-click scraping process**
 *   **Provides progress notifications**
