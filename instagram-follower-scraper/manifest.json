@@ -1,0 +1,20 @@
+{
+   "action": {
+      "default_icon": {
+         "32": "icons/32.png",
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "48": "icons/48.png"
+      },
+      "default_popup": "popup/popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/content.js" ],
+      "matches": [ "https://www.instagram.com/*" ]
+   } ],
+   "description": "Scrape Follower info from Your Target Page in Instagram (Pure js/no API/no behind the scenes activities)",
+   "manifest_version": 3,
+   "name": "Instagram Follower Scraper (by v-User)",
+   "permissions": [ "activeTab" ],
+   "version": "1.2.0"
+}
